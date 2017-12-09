@@ -1,0 +1,1 @@
+web-ext run --firefox="/c/Program Files/Firefox Developer Edition/firefox.exe" --firefox-profile="/c/Users/Home/AppData/Roaming/Mozilla/Firefox/Profiles/627wponn.dev-edition-default"

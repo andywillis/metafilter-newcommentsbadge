@@ -1,0 +1,13 @@
+{
+  "name": "metafilter-newcommentsbadge",
+  "version": "0.1",
+  "description": "Unofficial Metafilter web extension to show a new comments badge.",
+  "author": "Andy Willis",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.6.0",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-no-unsanitized": "^2.0.1"
+  }
+}

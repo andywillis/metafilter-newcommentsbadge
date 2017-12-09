@@ -1,0 +1,37 @@
+.newcommentsbadge {
+  color: #CCCC00;
+  font-weight: bold;
+  font-size: 11px;
+  padding: 0 6px 0 6px;
+  border: #000000;
+  margin-right: 0.5em;
+  border-radius: 5px;
+}
+
+.wwwcolor_newcomments {
+  background-color: #1177AA; /* #006699 */
+}
+
+.askcolor_newcomments {
+  background-color: #537857; /* #426746 */
+}
+
+.metatalkcolor_newcomments {
+  background-color: #777777; /* #666666 */
+}
+
+.fanfarecolor_newcomments {
+  background-color: #4D4564; /* #3C3453 */
+}
+
+.projectscolor_newcomments {
+  background-color: #3E6B6B; /* #2D5A5A */
+}
+
+.musiccolor_newcomments {
+  background-color: #444444; /* #333333 */
+}
+
+.podcastcolor_newcomments {
+  background-color: #777777; /* #666666 */
+}
